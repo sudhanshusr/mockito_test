@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.junit.Before;
+import org.junit.Ignore;
 import org.junit.Test;
 
 import com.xvitcoder.angualrspringapp.beans.RailwayStation;
@@ -11,7 +12,7 @@ import com.xvitcoder.angualrspringapp.beans.Train;
 import com.xvitcoder.angualrspringapp.service.RailwayStationService;
 import com.xvitcoder.angualrspringapp.service.RailwayStationServiceImpl;
 
-
+@Ignore
 public class TestRailwayStationServiceImpl {
 	
 	private static List<RailwayStation> rsList = new ArrayList<RailwayStation>();
