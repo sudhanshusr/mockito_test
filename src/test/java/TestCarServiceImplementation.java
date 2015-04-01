@@ -29,7 +29,6 @@ public class TestCarServiceImplementation {
 //		//assertEquals(0.2, 0.2, 0.0);
 		
 	}
-	//@Ignore
 	@Test
 	public void testAddCar() {
 		
