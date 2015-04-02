@@ -12,7 +12,7 @@ import com.xvitcoder.angualrspringapp.beans.Train;
 import com.xvitcoder.angualrspringapp.service.RailwayStationService;
 import com.xvitcoder.angualrspringapp.service.RailwayStationServiceImpl;
 
-@Ignore
+
 public class TestRailwayStationServiceImpl {
 	
 	private static List<RailwayStation> rsList = new ArrayList<RailwayStation>();
